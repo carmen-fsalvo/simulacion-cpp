@@ -15,5 +15,6 @@ Este repositorio reúne algoritmos fundamentales de análisis numérico, resoluc
   * Cuadratura numérica mediante Regla de Simpson y Cuadratura de Gauss (`simpson_vs_gauss.cpp`, `simpsontresoct_simple.cpp`)[cite: 6].
   * Derivación numérica y resolución de Ecuaciones Diferenciales Ordinarias (EDO) por diferencias finitas (`derivadaNum.cpp`, `EDO_dif_finitas.cpp`)[cite: 6].
 
-## Requisitos
-* Compilador C++ (soporte para Estándar C++11 o superior)
+## Tecnologías
+* Compilador C++
+* Entorno de desarrollo Visual Studio Code
